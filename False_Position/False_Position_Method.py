@@ -45,4 +45,5 @@ else:
 
     else:
         print("\nApproximate Root =", round(c, 6))
+        
         print("Maximum number of iterations reached.")
